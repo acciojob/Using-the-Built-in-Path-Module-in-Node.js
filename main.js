@@ -1,14 +1,5 @@
-const http = require('http');
-const port = 3000;
+const path = require('path');
 
-const server = http.createServer((req, res) => {
-  // TODO: Send the ""Hello, world!"" response
-});
+// TODO: Use path.join to join two file path segments
 
-server.listen(port, () => {
-  // TODO: Log a message to the console when the server starts listening on the port
-});
-
-// DO NOT EDIT BELOW THIS LINE
-
-module.exports = { server }
+// TODO: Print the resulting path to the console
