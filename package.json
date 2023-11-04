@@ -1,5 +1,5 @@
 {
-  "name": "Creating-a-Simple-HTTP-Server-in-Node.js-2",
+  "name": "Using-the-Built-in-Path-Module-in-Node.js",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/Creating-a-Simple-HTTP-Server-in-Node.js-2.git"
+    "url": "git+https://github.com/acciojob/Using-the-Built-in-Path-Module-in-Node.js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/Creating-a-Simple-HTTP-Server-in-Node.js-2/issues"
+    "url": "https://github.com/acciojob/Using-the-Built-in-Path-Module-in-Node.js/issues"
   },
-  "homepage": "https://github.com/acciojob/Creating-a-Simple-HTTP-Server-in-Node.js-2#readme",
+  "homepage": "https://github.com/acciojob/Using-the-Built-in-Path-Module-in-Node.js#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
